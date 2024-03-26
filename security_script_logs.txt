@@ -1,0 +1,33 @@
+[2023-11-05 12:14:30] Security script started.
+[2023-11-05 12:16:41] Detected ping from 169.254.123.221
+[2023-11-05 12:16:42] Detected ping from 169.254.123.221
+[2023-11-05 12:16:43] Detected ping from 169.254.123.221
+[2023-11-05 12:16:44] Detected ping from 169.254.123.221
+[2023-11-05 12:16:45] Detected ping from 169.254.123.221
+[2023-11-05 12:17:12] Detected ping from 192.168.183.1
+[2023-11-05 12:17:13] Detected ping from 192.168.183.1
+[2023-11-05 12:17:14] Detected ping from 192.168.183.1
+[2023-11-05 12:17:15] Detected ping from 192.168.183.1
+[2023-11-05 12:17:16] Detected ping from 192.168.183.1
+[2023-11-05 12:17:17] Detected ping from 192.168.183.1
+[2023-11-05 12:17:18] Detected ping from 192.168.183.1
+[2023-11-21 23:00:31] Added https://www.instagram.com/ to the website blacklist.
+[2023-11-21 23:00:44] Security script started.
+[2023-11-21 23:00:44] Successfully blocked websites: https://www.instagram.com/
+[2023-11-21 23:00:49] Error sending email: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials u9-20020a62ed09000000b006b8ffc49ba5sm8167030pfh.38 - gsmtp')
+[2023-11-21 23:00:49] Captured screenshot: captured\screenshot_2023-11-21_23-00-49.png
+[2023-11-21 23:02:10] Added http://testphp.vulnweb.com/ to the website blacklist.
+[2023-11-21 23:02:19] Successfully unblocked websites: https://www.instagram.com/, http://testphp.vulnweb.com/
+[2023-11-21 23:02:19] Security script stopped.
+[2023-11-21 23:02:24] Security script started.
+[2023-11-21 23:02:24] Successfully blocked websites: https://www.instagram.com/, http://testphp.vulnweb.com/
+[2023-11-21 23:02:30] Error sending email: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials x10-20020a17090ab00a00b002801ca4fad2sm9183999pjq.10 - gsmtp')
+[2023-11-21 23:02:30] Captured screenshot: captured\screenshot_2023-11-21_23-02-30.png
+[2023-11-21 23:02:54] Successfully unblocked websites: https://www.instagram.com/, http://testphp.vulnweb.com/
+[2023-11-21 23:02:54] Security script stopped.
+[2023-11-21 23:15:40] Security script started.
+[2023-11-21 23:15:40] Successfully blocked websites: 
+[2023-11-21 23:15:45] Error sending email: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials b6-20020a170902b60600b001b86dd825e7sm8220218pls.108 - gsmtp')
+[2023-11-21 23:15:45] Captured screenshot: captured\screenshot_2023-11-21_23-15-45.png
+[2023-11-21 23:16:16] Successfully unblocked websites: 
+[2023-11-21 23:16:16] Security script stopped.
